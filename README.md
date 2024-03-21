@@ -1,0 +1,2 @@
+# subtheme
+mitt drupal subtheme
